@@ -8,9 +8,13 @@ in its unabrigded form (including license), which is the only condition for redi
 Eve TDU Analysis (ETA) has five components.
 
 1) Mutual Information Analysis (MIA): MutualInformation_v3.m and MI_v3.m
+
 2) Mutual Information Movie Maker (MIMM): EveMIMovieMaker.m and MutualInfoMovie.m
+
 3) Nuclei Turn-Off Analysis (NTA): TurnOff_v3.m
+
 4) Preprocessing Data Structure Initialization (PDSI): ReadGregorEvePipeline.m
+
 5) Wave Analysis (WA): EveWaveAnalysis.m
 
 The PDSI takes in the data structures created by the FISH Toolbox and LivemRNA and creates some new data structures, namely relationships between different nuclei and particles.
