@@ -1,7 +1,8 @@
 # Eve-TDU-Analysis
 # Code for analysis done on Eve looking at topological distance unit (TDU) relationships. 
 
-This repository is a colloboration between William Redman (NYU & Princeton), Danny Wells (Northwestern & Princeton), and Madhav Mani.
+This repository is a colloboration between William Redman (NYU & Princeton), Danny Wells (Northwestern & Princeton), and Madhav Mani (Northwestern).
+
 Please note that this repository includes the SLM toolbox developed by John D'Errico (http://www.mathworks.com/matlabcentral/fileexchange/24443-slm-shape-language-modeling)
 in its unabrigded form (including license), which is the only condition for redistribution. Please see SLM documentation for more information.
 
