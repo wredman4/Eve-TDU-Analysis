@@ -18,11 +18,11 @@ Eve TDU Analysis (ETA) has five components:
 
 5) Wave Analysis (WA): EveWaveAnalysis.m
 
-The #PDSI# takes in the data structures created by the FISH Toolbox and LivemRNA and creates some new data structures, namely relationships between different nuclei and particles.
-The #MIA# was done after the integrated, detrended correlation analysis that worked well on the Hunchback data failed to go anywhere.
-The #MIMM# gives both a very visual representation of what is going on through time, as well as helping determine the time scale of the interactions.
-The #NIA# looks at how closely neighboring nuclei's turn-off "profile" is.
-The #WA# looks at both the width of the stripe through time, and the velocity of the stripe. 
+The PDSI takes in the data structures created by the FISH Toolbox and LivemRNA and creates some new data structures, namely relationships between different nuclei and particles.
+The MIA was done after the integrated, detrended correlation analysis that worked well on the Hunchback data failed to go anywhere.
+The MIMM gives both a very visual representation of what is going on through time, as well as helping determine the time scale of the interactions.
+The NIA looks at how closely neighboring nuclei's turn-off "profile" is.
+The WA looks at both the width of the stripe through time, and the velocity of the stripe. 
 
 Any questions regarding this repository can be sent to wtr214@nyu.edu. 
 
